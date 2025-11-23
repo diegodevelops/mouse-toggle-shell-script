@@ -1,6 +1,10 @@
-# Toggle Mouse Script Setup
+# Toggle Mouse Script
 
-## Add Script to Automator
+A macOS Automator script to quickly toggle Bluetooth mouse connection via keyboard shortcut.
+
+## Setup Instructions
+
+### Add Script to Automator
 
 1. Open Automator
 2. Select "New Document"
@@ -16,7 +20,7 @@
    brew install blueutil
 ```
 
-## Add Keyboard Shortcut
+### Add Keyboard Shortcut
 
 1. Open System Settings
 2. Type "keyboard" in the top left search box and select it once the "Keyboard" option appears
