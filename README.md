@@ -9,7 +9,7 @@
      - "Workflow receives" → no input
      - "in" → any application
 4. In the search box on the left, search for "Run Shell Script"
-5. Paste the script code in: `/Users/Diego/Documents/dev/shell-scripts.sh`
+5. Paste the script code in: `toggle-mouse-connection.sh`
 6. Save it and name it "Toggle Mouse"
 7. Since the script uses `blueutil`, you need to install it:
 ```bash
